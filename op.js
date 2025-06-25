@@ -1,0 +1,16 @@
+let a=23;
+let b= 5;
+console.log(a+b);
+console.log(a-b); 
+console.log(a*b);
+console.log(a/b);
+console.log(a%b);
+console.log(a**b);
+let q=2;
+let r='2';
+console.log(q==r);
+console.log(a==b);
+console.log(a^b);
+console.log(a/b);
+console.log(a<<2);
+console.log(a>>1);
